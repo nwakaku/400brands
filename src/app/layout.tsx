@@ -13,7 +13,7 @@ const iconsData: IconURL =
 
 const openGraph: OpenGraph = {
   type: "website",
-  url: "https://www.400brands.com/",
+  url: "https://www.400brands.online/",
   title:
   "Empowering Businesses for a Digital Future | 400Brands",
   description:
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   icons: iconsData,
   openGraph: openGraph,
   alternates: {
-    canonical: "https://www.400brands.com",
+    canonical: "https://www.400brands.online",
   },
   verification: {
     google: "google-site-verification=",

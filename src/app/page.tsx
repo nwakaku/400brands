@@ -25,7 +25,7 @@ export default function Home() {
     name: "About Us Page",
     description:
       "Information about 400brands, its mission and vision",
-    url: "https://www.400brands.com/",
+    url: "https://www.400brands.online/",
     mainEntityOfPage: {
       "@type": "AboutPage",
       name: "About 400brands",
@@ -35,7 +35,7 @@ export default function Home() {
       "@type": "Organization",
       name: "400brands",
       description: "Your Partner for Navigating the Digital Transition. We empower businesses to thrive in the digital era through cost-effective solutions, innovation, and expert guidance.",
-      url: "https://www.400brands.com/",
+      url: "https://www.400brands.online/",
       logo: "https://bafybeievaspmliju6ree2vl2vlosy27bnw4kavlfbr5m5ezwyrxdz23dvy.ipfs.w3s.link/400log.png",
     },
   };
