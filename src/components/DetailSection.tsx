@@ -98,7 +98,7 @@ const DetailSection = () => {
               </li>
             </ul>
             <p className="mb-8 font-light lg:text-sm italic">
-              "Adapt or perish, now as ever, is nature's inexorable imperative."
+            &quot; Adapt or perish, now as ever, is nature&apos;s inexorable imperative.&quot;
               - H.G. Wells
             </p>
           </div>
@@ -163,7 +163,7 @@ const DetailSection = () => {
                 <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
                   Technological investments are carefully chosen based on their
                   potential for long-term growth and alignment with the
-                  company's mission and values.
+                  company&apos;s mission and values.
                 </span>
               </li>
               <li className="flex space-x-3">
@@ -202,13 +202,13 @@ const DetailSection = () => {
                 </svg>
                 <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
                   Ensures that the financial burden of technological adaptation
-                  is manageable and doesn't hinder growth.
+                  is manageable and doesn&apos;t hinder growth.
                 </span>
               </li>
             </ul>
             <p className="font-light lg:text-sm italic">
-              "Opportunity does not knock; it presents itself when you beat down
-              the door." - Kyle Chandler
+            &quot;Opportunity does not knock; it presents itself when you beat down
+              the door.&quot; - Kyle Chandler
             </p>
           </div>
         </div>
